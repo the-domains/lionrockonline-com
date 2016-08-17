@@ -1,0 +1,28 @@
+name: lionrockonline.com
+favicon: null
+layout_spectrum: 0.22914087632670999
+typography_spectrum: 0.3383430845569819
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20937712443992496
+  lightness: 0.9592721844092011
+  saturation: 0.49795782659202814
+  rhythmicContrast: 0.3983759942930192
+purpose: []
